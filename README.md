@@ -4,4 +4,4 @@
 # Công việc tiếp theo: tạo sever network bằng PUN2. Đây là lần đầu tiên thử nghiệm nên còn nhiều bất cập.
 # Giải pháp: phát triển game theo hướng offline với các đối tượng A.I Enermy thay thế cho người chơi online.
 # Biểu đồ có thể triển khai: Biểu đồ tuần tự điều khiển và khả năng bắn của nhân vật. 
-# Next update file: ProjectIII20181062.Fix2
+# Next Update Project: ProjectIII20181062.Fix2
